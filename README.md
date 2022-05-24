@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 
 ## Purpose
-The purpose of this analysis is to provide a potential investor with weather information that would impact a surf and shake shop business venture on the island of Oahu, Hawaii. Using Python I analyzed temperature data for June and December across 7 years to determine whether this business plan would be feasible given its high dependence on weather conditions.
+The purpose of this analysis is to provide a potential investor with weather information that would impact a surf and shake shop business venture on the island of Oahu, Hawaii. Using Python, I analyzed temperature data for June and December across 7 years to determine whether this business plan would be feasible given its high dependence on weather conditions.
 
 ### Results
 As shown in the screenshots below of the summary statistics for June and December:
@@ -9,9 +9,8 @@ As shown in the screenshots below of the summary statistics for June and Decembe
  - The minimum temperature in June was recorded at 64 degrees, while December was 56.
  - The maximum temperature in June was recorded at 85 degrees, while December was 83.
 
- June_temps
-
- Dec_temps
+ ![June_temps](https://github.com/nikkiheaston/surfs_up/blob/main/June_temps.PNG)
+ ![Dec_temps](https://github.com/nikkiheaston/surfs_up/blob/main/Dec_temps.PNG)
 
 ### Summary
 Given that the temperatures are, on average, relatively similar in summer and winter, it is reasonable to assume that customers would be interested in the surf and shake shop's offerings all year round. The minimum temperatures do lead me to consider performing additional queries for further insight, such as:
